@@ -13,7 +13,7 @@ public class urlTester {
 	public static void main(String[] args) {
 
 		
-		System.out.println("HELLO");
+		System.out.println("HELLO fellow Jambronis!");
 //		try{
 //		URL oracle = new URL("http://www.oracle.com/");
 //
